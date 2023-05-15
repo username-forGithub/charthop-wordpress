@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="187" height="138.768" viewBox="0 0 187 138.768">
+  <g id="Group_1375" data-name="Group 1375" transform="translate(-263 -546.616)">
+    <circle id="Ellipse_30" data-name="Ellipse 30" cx="19" cy="19" r="19" transform="translate(263 591)" fill="#ac83ff"/>
+    <g id="Illo_MagnifyingGlass" transform="translate(284.351 546.988)">
+      <path id="Path_223" data-name="Path 223" d="M1139.7,549.666v59.49a13.384,13.384,0,0,1-13.376,13.384h-59.49a13.384,13.384,0,0,1-13.384-13.384V588.067a37.579,37.579,0,0,0,17.5-51.777h55.372a13.384,13.384,0,0,1,13.376,13.376" transform="translate(-983.973 -500.119)" fill="#7633ff"/>
+      <path id="Path_224" data-name="Path 224" d="M1108.806,614.482l-39.555-39.563a54.044,54.044,0,1,0-14.887,15.692l32.7,32.705,6.46,6.46a4.351,4.351,0,0,0,6.144,0l6.46-6.46,2.682-2.69a4.334,4.334,0,0,0,0-6.144M1039.177,580.6a37.579,37.579,0,1,1,21.895-34.15,37.579,37.579,0,0,1-21.895,34.15" transform="translate(-969.7 -492.65)" fill="#210c46"/>
+      <path id="Path_225" data-name="Path 225" d="M1075.345,553.917a37.563,37.563,0,0,1-21.895,34.15v-38.4a13.385,13.385,0,0,1,13.384-13.376h4.151a37.362,37.362,0,0,1,4.4,17.627" transform="translate(-983.973 -500.119)" fill="#e5d4ff"/>
+    </g>
+    <circle id="Ellipse_29" data-name="Ellipse 29" cx="10" cy="10" r="10" transform="translate(430 548)" fill="#e2d5ff"/>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+ã¼ob<?php exit; ?>a:1:{s:7:"content";s:43:"Â© 2022 ChartHop, Inc. All Rights Reserved.";}

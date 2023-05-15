@@ -1,0 +1,18 @@
+<svg id="Element_tick_icon" data-name="Element / tick icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.803" height="24.755" viewBox="0 0 24.803 24.755">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_18" data-name="Path 18" d="M-5-23H19.8V1.755H-5Z" transform="translate(-1.656 16.337)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_927" data-name="Group 927" transform="translate(3.003 3.663)">
+    <g id="Mask_Group_46" data-name="Mask Group 46" transform="translate(3.653 3)" clip-path="url(#clip-path)">
+      <g id="Icon_tick" transform="translate(-4.019 -4.018)">
+        <path id="Path_174" data-name="Path 174" d="M9.546,11.533l3.334,3.288,7.983-8.344" transform="translate(-3.236 -2.507)" fill="none" stroke="#6b2219" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.542"/>
+        <path id="Path_175" data-name="Path 175" d="M305.036,159.486a9.691,9.691,0,1,0-.293,18.476" transform="translate(-292.273 -158.986)" fill="none" stroke="#6b2219" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.542"/>
+        <path id="Path_176" data-name="Path 176" d="M316.729,175.494a9.766,9.766,0,0,0,.739-3.843" transform="translate(-298.085 -161.996)" fill="none" stroke="#ffecdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.542"/>
+        <path id="Path_177" data-name="Path 177" d="M307.586,182.278a9.691,9.691,0,0,0,7.07-5.9" transform="translate(-295.912 -163.118)" fill="none" stroke="#ffb27c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.542"/>
+        <path id="Path_178" data-name="Path 178" d="M307.049,183.665a9.786,9.786,0,0,0,4.317-1.841" transform="translate(-295.784 -164.413)" fill="none" stroke="#ff7b00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.542"/>
+      </g>
+    </g>
+  </g>
+</svg>

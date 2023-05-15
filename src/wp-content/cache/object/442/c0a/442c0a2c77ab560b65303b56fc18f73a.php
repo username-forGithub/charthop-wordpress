@@ -1,0 +1,1 @@
+ã¼ob<?php exit; ?>a:1:{s:7:"content";s:70:"https://charthop.1devserver.co.uk/wp-includes/images/media/default.png";}

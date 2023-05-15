@@ -1,0 +1,123 @@
+Jan 30 2020 17:00:06
+{"type":8,"message":"Undefined index: _kebo_lock","file":"C:\\Openserver\\OSPanel\\domains\\dalepowersolutions.loc\\wp-content\\plugins\\kebo-social\\inc\\classes\\Kebo_Caching.php","line":77}
+
+May 27 2022 11:52:40
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Account\\AccountDataFactory&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:52:40
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Account\\AccountData&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:52:40
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Account\\AccountData&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:52:40
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Account\\AccountData&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:52:40
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Account\\AccountData&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:52:40
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Account\\AccountData&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:52:40
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Account\\AccountData&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:52:40
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Account\\AccountData&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:52:40
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Account\\AccountData&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:52:40
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Account\\AccountDataFactory&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:46
+{"Number":8,"Message":"unserialize(): Error at offset 146270 of 458164 bytes","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":60}
+
+May 27 2022 11:53:46
+{"Number":8,"Message":"unserialize(): Error at offset 45058 of 180582 bytes","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":60}
+
+May 27 2022 11:53:46
+{"Number":8,"Message":"unserialize(): Error at offset 96227 of 105362 bytes","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":60}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Short_Link_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Options_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Short_Link_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Product_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Short_Link_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Short_Link_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Options_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Short_Link_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Product_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Short_Link_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Short_Link_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Options_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Short_Link_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Product_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Helpers\\Short_Link_Helper&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+
+May 27 2022 11:53:48
+{"Number":8,"Message":"Ai1wm_Database_Utility::replace_serialized_values(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Yoast\\WP\\SEO\\Presenters\\Admin\\Indexing_Notification_Presenter&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition","File":"E:\\LocalWeb\\charthop\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":74}
+

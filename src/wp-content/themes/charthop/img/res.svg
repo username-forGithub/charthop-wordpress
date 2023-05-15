@@ -1,0 +1,25 @@
+<svg id="Group_51" data-name="Group 51" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="12" viewBox="0 0 13 12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="13" height="12" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_12" data-name="Path 12" d="M1-1H13V-13H1Z" transform="translate(-1 13)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_50" data-name="Group 50" style="isolation: isolate">
+    <g id="Group_49" data-name="Group 49" clip-path="url(#clip-path)">
+      <g id="Group_48" data-name="Group 48" transform="translate(1)" clip-path="url(#clip-path-2)">
+        <g id="Group_45" data-name="Group 45" transform="translate(6.5 7)">
+          <path id="Path_9" data-name="Path 9" d="M.5,4.5,5,0" transform="translate(-0.5)" fill="none" stroke="#c8acff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        </g>
+        <g id="Group_46" data-name="Group 46" transform="translate(3.5 4)">
+          <path id="Path_10" data-name="Path 10" d="M.5,7.5,8,0" transform="translate(-0.5)" fill="none" stroke="#c8acff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        </g>
+        <g id="Group_47" data-name="Group 47" transform="translate(0.373 11.373) rotate(-45)">
+          <path id="Path_11" data-name="Path 11" d="M0,.179,14.814,0" fill="none" stroke="#c8acff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

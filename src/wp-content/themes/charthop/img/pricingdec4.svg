@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215.951" height="294.821" viewBox="0 0 215.951 294.821">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_143" data-name="Rectangle 143" width="49.812" height="49.812" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_146" data-name="Rectangle 146" width="198.606" height="99.735" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_143-2" data-name="Rectangle 143" width="126.513" height="126.514" fill="#6e37ff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1377" data-name="Group 1377" transform="translate(-161.049 -2484.18)">
+    <g id="Group_640" data-name="Group 640" transform="matrix(0.951, 0.309, -0.309, 0.951, 221.104, 2484.18)">
+      <g id="Group_560" data-name="Group 560" clip-path="url(#clip-path)">
+        <path id="Path_67" data-name="Path 67" d="M.728,23.148,23.147.729a2.487,2.487,0,0,1,3.517,0L49.083,23.148a2.487,2.487,0,0,1,0,3.517L26.664,49.084a2.487,2.487,0,0,1-3.517,0L.728,26.665a2.487,2.487,0,0,1,0-3.517" transform="translate(0 -0.001)" fill="#b1ddfc"/>
+      </g>
+    </g>
+    <g id="Group_639" data-name="Group 639" transform="translate(377 2734.324) rotate(167)">
+      <g id="Group_562" data-name="Group 562" clip-path="url(#clip-path-2)">
+        <path id="Path_68" data-name="Path 68" d="M9.011,99.735a8.98,8.98,0,0,1-8.969-9.8,99.744,99.744,0,0,1,198.521,0,8.981,8.981,0,0,1-8.969,9.8Z" fill="#915dff"/>
+      </g>
+    </g>
+    <g id="Group_609" data-name="Group 609" transform="matrix(0.292, 0.956, -0.956, 0.292, 302.767, 2515.254)">
+      <g id="Group_560-2" data-name="Group 560" clip-path="url(#clip-path-3)">
+        <path id="Path_67-2" data-name="Path 67" d="M1.85,58.79,58.79,1.85a6.316,6.316,0,0,1,8.933,0l56.939,56.94a6.317,6.317,0,0,1,0,8.933l-56.94,56.94a6.316,6.316,0,0,1-8.933,0L1.85,67.723a6.317,6.317,0,0,1,0-8.933" transform="translate(0 0.001)" fill="#84e7ba"/>
+      </g>
+    </g>
+  </g>
+</svg>

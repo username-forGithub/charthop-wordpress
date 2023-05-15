@@ -1,0 +1,1 @@
+ã¼ob<?php exit; ?>a:1:{s:7:"content";s:131:"a:3:{s:5:"title";s:18:"View all resources";s:3:"url";s:43:"http://charthop.1devserver.co.uk/resources/";s:6:"target";s:6:"_blank";}";}

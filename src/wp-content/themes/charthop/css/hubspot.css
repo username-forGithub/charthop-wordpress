@@ -1,0 +1,271 @@
+.hbspt-form form {
+    display: flex;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: -moz-flex;
+}
+.home_hero .home_hero_form .hbspt-form input:not([type="submit"]){
+    height: auto;
+    font-size: 16px;
+    padding: 11px 0px;
+    margin-top: -6px;
+    width: 246px;
+    max-width: 100%;
+}
+.home_hero .home_hero_form .hbspt-form input[type="submit"] {
+    width: auto;
+    height: auto;
+    margin-top: 2px;
+    margin-left: 0;
+
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 3px;
+
+    background: #7632ff;
+    background: -webkit-gradient(linear,left top,right top,from(#7632ff),to(#915dff));
+    background: linear-gradient(to right,#7632ff 0%,#915dff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7632ff",endColorstr="#915dff",GradientType=1);
+
+    color: #fff;
+    font-size: 16px;
+    padding: 11px 30px;
+    font-family: "Sneak-Bold";
+    -webkit-transition: 300ms;
+    transition: 300ms;
+    border: 0;
+    cursor: pointer;
+    position: relative;
+}
+.home_hero .home_hero_form .hbspt-form input[type="submit"]:hover {
+    background: -webkit-gradient(linear,left top,right top,from(#AC83FF),to(#AC83FF));
+    background: linear-gradient(to right,#AC83FF 0%,#AC83FF 100%);
+    color: #fff;
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+    -webkit-box-shadow: 1px 5px 10px rgb(107 107 107 / 50%);
+    box-shadow: 1px 5px 10px rgb(107 107 107 / 50%);
+
+    -webkit-box-shadow: 1px 5px 10px #7a7a7a;
+    box-shadow: 1px 5px 10px #7a7a7a;
+}
+.home_hero .home_hero_form .hs-error-msgs {
+    display: none !important;
+}
+.home_hero .input + .hs-error-msgs {
+    display: block !important;
+    list-style: none;
+    font-size: 12px;
+    margin: 4px 0 0;
+    padding: 0 !important;
+}
+.home_hero .home_hero_form .label {
+    margin-bottom: 0;
+}
+.hbspt-form .hs_submit .actions {
+    text-align: right;
+}
+.hbspt-form .hs_submit {
+    margin-left: 14px;
+}
+.home_hero .home_hero_form .hbspt-form + .home_hero_form_under {
+    text-align: right;
+    padding-top: 2px;
+    padding-right: 17px;
+}
+
+@media only screen and (max-width: 767px)
+{
+    .hbspt-form form {
+        flex-flow: column;
+
+    }
+    .hbspt-form .hs_submit {
+        margin: 20px 0 0;
+    }
+    .home_hero .home_hero_form .hbspt-form input[type="submit"] {
+        margin: 0;
+        width: 100%;
+    }
+    .home_hero .home_hero_form input {
+        width: 100% !important;
+    }
+    .home_hero .home_hero_form .home_hero_form_under a {
+        padding: 4px 0;
+        border-bottom: 1px solid #E2D5FF;
+        text-decoration: none !important;
+    }
+    .home_hero .home_hero_form {
+        padding-top: 20px;
+    }
+}
+#app_body #content,
+div#app_body #header {
+    display: none;
+}
+
+.text_style ul.hs-error-msgs {
+    display: block;
+    padding: 0;
+    margin: 1em 0 0;
+    list-style: none;
+}
+.text_style ul.hs-error-msgs li {
+    padding: 0;
+}
+.text_style ul.hs-error-msgs li::before {
+    display: none;
+}
+.guide-class label.hs-error-msg {
+    text-transform: none;
+    letter-spacing: normal;
+}
+input.hs-button {
+    cursor: pointer;
+}
+.download_case_form .hs-form-field > label {
+    font-family: "Sneak-Bold";
+    text-transform: uppercase;
+    letter-spacing: 1.65px;
+    font-size: 11px;
+    color: #1E0D43;
+    margin-bottom: 10px;
+}
+.download_case_form ul.hs-error-msgs {
+    /*display: none !important;*/
+}
+.download_case_form .hbspt-form form {
+    flex-flow: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    margin-bottom: -3px;
+}
+
+.download_case_form .hbspt-form form input[type="submit"] {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 3px;
+    background: #7632ff;
+    color: #fff;
+    font-size: 16px;
+    padding: 12px 30px;
+    font-family: "Sneak-Bold";
+    -webkit-transition: 300ms;
+    transition: 300ms;
+    border: 0;
+    cursor: pointer;
+    position: relative;
+    height: auto;
+    width: auto;
+    margin-bottom: 0 !important;
+}
+.download_case_form .hbspt-form form input[type="submit"]:hover {
+    background: #AC83FF;
+    color: #fff;
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+    -webkit-box-shadow: 1px 5px 10px rgb(107 107 107 / 50%);
+    box-shadow: 1px 5px 10px rgb(107 107 107 / 50%);
+}
+.download_case_form .hs_submit {
+    margin-left: 0;
+    margin-top: 36px;
+}
+.download_case_form h3 {
+    margin-top: 43px;
+    margin-bottom: 42px;
+}
+.single_blog_content .single_blog_sidebar .single_blog_sidebar_box input {
+    padding-left: 0;
+    padding-bottom: 6px;
+    margin-bottom: 33px;
+}
+.single_blog_content .single_blog_sidebar .single_blog_sidebar_box .download_case_form input.invalid {
+    margin-bottom: 0;
+}
+.single_blog_content .single_blog_sidebar .single_blog_sidebar_box textarea {
+    margin-top: 2px;
+    height: 125px;
+    padding-left: 0;
+}
+.download_case_form .hs-form-field.hs_email label {
+    margin-bottom: 8px;
+}
+.download_case_form ul.no-list.hs-error-msgs.inputs-list {
+    margin-top: 0;
+    font-size: 14px;
+}
+.download_case_form  ul.hs-error-msgs li {
+    text-align: left;
+}
+.newsletterbox .hbspt-form form {
+    align-items: flex-end;
+}
+.newsletterbox .hbspt-form ul.no-list.hs-error-msgs.inputs-list {
+    display: block;
+    position: absolute;
+    padding: 0;
+}
+.newsletterbox .hbspt-form input[type="submit"] {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 3px;
+    background: #7632ff;
+    color: #fff;
+    font-size: 16px;
+    padding: 11px 30px;
+    font-family: "Sneak-Bold";
+    -webkit-transition: 300ms;
+    transition: 300ms;
+    border: 0;
+    cursor: pointer;
+    position: relative;
+    margin-left: 8px;
+    width: auto;
+}
+.newsletterbox .hbspt-form input[type="submit"]:hover {
+    background: #AC83FF;
+    color: #fff;
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+    -webkit-box-shadow: 1px 5px 10px rgb(107 107 107 / 50%);
+    box-shadow: 1px 5px 10px rgb(107 107 107 / 50%);
+}
+.newsletterbox .hbspt-form .hs_email {
+    width: 100%;
+}
+.newsletterbox .hbspt-form .hs_email label {
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+.newsletterbox .hbspt-form .hs_email label span {
+    font-family: "Sneak-Bold";
+    text-transform: uppercase;
+    letter-spacing: 1.65px;
+    font-size: 11px;
+    color: #1E0D43;
+    margin-bottom: 10px;
+}
+.newsletterbox .notification small {
+    margin-top: 6px;
+}
+.newsletterbox .hbspt-form label.hs-main-font-element {
+    display: none;
+}
+
+@media only screen and (max-width: 767px)
+{
+    .newsletterbox .hbspt-form .hs_submit {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .newsletterbox .hbspt-form input[type="submit"] {
+        width: 100%;
+        margin-left: 0;
+    }
+    .newsletterbox .hbspt-form .hs_email label {
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+}

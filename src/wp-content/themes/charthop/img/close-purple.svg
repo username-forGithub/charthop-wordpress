@@ -1,0 +1,16 @@
+<svg id="Element_cross_icon" data-name="Element / cross icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_47" data-name="Path 47" d="M5.268-8.126a.429.429,0,0,0,.606,0,.429.429,0,0,0,0-.606L3.606-11l2.268-2.268a.429.429,0,0,0,0-.606.429.429,0,0,0-.606,0L3-11.606.732-13.874a.429.429,0,0,0-.606,0,.429.429,0,0,0,0,.606L2.394-11,.126-8.732a.429.429,0,0,0,0,.606.429.429,0,0,0,.606,0L3-10.394Z" transform="translate(0 14)" fill="#6E37FF" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <g id="Group_146" data-name="Group 146" transform="translate(7 7)">
+    <g id="Group_145" data-name="Group 145" clip-path="url(#clip-path)">
+      <path id="Path_46" data-name="Path 46" d="M-5-19H5.286V-8.714H-5Z" transform="translate(2.857 16.857)" fill="#6E37FF"/>
+    </g>
+  </g>
+  <g id="Ellipse_4" data-name="Ellipse 4" fill="none" stroke="#6E37FF" stroke-width="0.8">
+    <circle cx="10" cy="10" r="10" stroke="none"/>
+    <circle cx="10" cy="10" r="9.6" fill="none"/>
+  </g>
+</svg>

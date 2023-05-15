@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="275.535" height="246.789" viewBox="0 0 275.535 246.789">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_143" data-name="Rectangle 143" width="82.999" height="82.999" fill="#6e37ff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_143-2" data-name="Rectangle 143" width="43.229" height="43.229" fill="#6e37ff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_143-3" data-name="Rectangle 143" width="122.306" height="122.306" fill="#6e37ff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1183" data-name="Group 1183" transform="translate(22.874 -548.02)">
+    <g id="Group_961" data-name="Group 961" transform="matrix(0.087, 0.996, -0.996, 0.087, 169.684, 615.014)">
+      <g id="Group_560" data-name="Group 560" transform="translate(-40.831 53.645)" clip-path="url(#clip-path)">
+        <path id="Path_67" data-name="Path 67" d="M1.214,38.57,38.569,1.215a4.144,4.144,0,0,1,5.861,0L81.785,38.57a4.144,4.144,0,0,1,0,5.861L44.43,81.786a4.144,4.144,0,0,1-5.861,0L1.214,44.431a4.144,4.144,0,0,1,0-5.861" transform="translate(0 0)" fill="#e2d5ff"/>
+      </g>
+    </g>
+    <g id="Group_963" data-name="Group 963" transform="translate(56.908 637.994) rotate(126)">
+      <g id="Group_560-2" data-name="Group 560" transform="translate(-40.831 53.645)" clip-path="url(#clip-path-2)">
+        <path id="Path_67-2" data-name="Path 67" d="M.632,20.089,20.088.633a2.158,2.158,0,0,1,3.052,0L42.6,20.089a2.158,2.158,0,0,1,0,3.052L23.14,42.6a2.158,2.158,0,0,1-3.052,0L.632,23.141a2.158,2.158,0,0,1,0-3.052" transform="translate(0 -0.001)" fill="#84e7ba"/>
+      </g>
+    </g>
+    <g id="Group_962" data-name="Group 962" transform="translate(252.661 695.861) rotate(126)">
+      <g id="Group_560-3" data-name="Group 560" clip-path="url(#clip-path-3)">
+        <path id="Path_67-3" data-name="Path 67" d="M1.789,56.835,56.834,1.79a6.106,6.106,0,0,1,8.636,0l55.046,55.046a6.106,6.106,0,0,1,0,8.636L65.47,120.517a6.106,6.106,0,0,1-8.636,0L1.789,65.471a6.106,6.106,0,0,1,0-8.636" transform="translate(0 0)" fill="#47ce98"/>
+      </g>
+    </g>
+  </g>
+</svg>

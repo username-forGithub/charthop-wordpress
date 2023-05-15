@@ -1,0 +1,16 @@
+<IfModule mod_headers.c>
+    <FilesMatch "\.html[_a-z]*$">
+        Header unset Link
+        Header add Link '</wp-content/cache/minify/a5ff7.css>; rel=preload; as=style'
+
+        Header add Link '</wp-content/cache/minify/057ec.css>; rel=preload; as=style'
+
+        Header add Link '</wp-content/cache/minify/b099d.css>; rel=preload; as=style'
+
+        Header add Link '</wp-content/cache/minify/50fc5.css>; rel=preload; as=style'
+
+        Header add Link '</wp-content/cache/minify/58b42.css>; rel=preload; as=style'
+
+        Header add Link '</wp-content/cache/minify/9263a.css>; rel=preload; as=style'
+    </FilesMatch>
+</IfModule>

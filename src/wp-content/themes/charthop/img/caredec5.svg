@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="337.866" height="380.831" viewBox="0 0 337.866 380.831">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_143" data-name="Rectangle 143" width="143.05" height="143.05" fill="#6e37ff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_143-2" data-name="Rectangle 143" width="156.036" height="156.036" fill="#6e37ff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_147" data-name="Rectangle 147" width="40.703" height="40.703" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1366" data-name="Group 1366" transform="translate(-138.134 -3221.307)">
+    <g id="Group_1140" data-name="Group 1140" transform="translate(170.313 3602.139) rotate(-103)">
+      <g id="Group_560" data-name="Group 560" clip-path="url(#clip-path)">
+        <path id="Path_67" data-name="Path 67" d="M2.092,66.475,66.474,2.093a7.142,7.142,0,0,1,10.1,0l64.382,64.382a7.142,7.142,0,0,1,0,10.1L76.575,140.958a7.142,7.142,0,0,1-10.1,0L2.092,76.576a7.142,7.142,0,0,1,0-10.1" transform="translate(0 0)" fill="#8bcefc"/>
+      </g>
+    </g>
+    <g id="Group_1150" data-name="Group 1150" transform="matrix(-0.829, -0.559, 0.559, -0.829, 388.746, 3437.922)" opacity="0.15">
+      <g id="Group_560-2" data-name="Group 560" clip-path="url(#clip-path-2)">
+        <path id="Path_67-2" data-name="Path 67" d="M2.282,72.51,72.509,2.283a7.791,7.791,0,0,1,11.018,0L153.754,72.51a7.791,7.791,0,0,1,0,11.018L83.527,153.755a7.791,7.791,0,0,1-11.018,0L2.282,83.528a7.791,7.791,0,0,1,0-11.018" transform="translate(0 0)" fill="#c8acff"/>
+      </g>
+    </g>
+    <g id="Group_1151" data-name="Group 1151" transform="translate(237.297 3250.104)" opacity="0.497">
+      <g id="Group_565" data-name="Group 565" clip-path="url(#clip-path-3)">
+        <path id="Path_69" data-name="Path 69" d="M0,20.352A20.352,20.352,0,1,1,20.351,40.7,20.375,20.375,0,0,1,0,20.352m30.69,0A10.338,10.338,0,1,0,20.351,30.691,10.35,10.35,0,0,0,30.69,20.352" transform="translate(0 -0.001)" fill="#ac83ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
